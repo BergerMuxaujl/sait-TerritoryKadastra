@@ -1,0 +1,39 @@
+@charset "UTF-8";
+// !SLIDER-command
+.command-slider .slick-list {
+  // overflow: hidden;
+}
+/* Лента слайдов */
+.command-slider .slick-track {
+  display: flex;
+}
+/* Слайд */
+.command-slider .slick-slide{
+  margin-right: 86px;
+}
+
+// !SLIDER-DOCS
+.slider-docs .slick-list {
+  overflow: hidden;
+}
+/* Лента слайдов */
+.slider-docs .slick-track {
+  display: flex;
+}
+/* Слайд */
+.slider-docs .slick-slide{
+  margin-right: 49px;
+}
+
+// !SLIDER-REVIEWS
+.slider-reviews .slick-list {
+  overflow: hidden;
+}
+/* Лента слайдов */
+.slider-reviews .slick-track {
+  display: flex;
+}
+/* Слайд */
+.slider-reviews .slick-slide{
+  margin-right: 72px;
+}

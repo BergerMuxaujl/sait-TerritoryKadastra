@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/* Лента слайдов */
+.command-slider .slick-track {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+/* Слайд */
+.command-slider .slick-slide {
+  margin-right: 86px;
+}
+
+.slider-docs .slick-list {
+  overflow: hidden;
+}
+
+/* Лента слайдов */
+.slider-docs .slick-track {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+/* Слайд */
+.slider-docs .slick-slide {
+  margin-right: 49px;
+}
+
+.slider-reviews .slick-list {
+  overflow: hidden;
+}
+
+/* Лента слайдов */
+.slider-reviews .slick-track {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+/* Слайд */
+.slider-reviews .slick-slide {
+  margin-right: 72px;
+}
